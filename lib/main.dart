@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_app/Routes.dart';
 import 'package:flutter_app/bloc/cars_bloc.dart';
 import 'package:flutter_app/drawer.dart';
+import 'package:flutter_app/pages/sign_in_page.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_app/data/cars_repository.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -36,7 +37,7 @@ class MyApp extends StatelessWidget {
 
               // Once complete, show your application
               if (snapshot.connectionState == ConnectionState.done) {
-                return HomePage();
+                return SignInPage();
               }
 
               // Otherwise, show something whilst waiting for initialization to complete
