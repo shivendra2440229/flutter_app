@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "284083949179",
+    "firebase_url": "https://fir-demo-6901c.firebaseio.com",
+    "project_id": "fir-demo-6901c",
+    "storage_bucket": "fir-demo-6901c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284083949179:android:c56a99d0639f64304e1cde",
+        "android_client_info": {
+          "package_name": "shivendra.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284083949179-3fqq9taq35dj6mu9tegdfbptb2d20dkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shivendra.flutter_app",
+            "certificate_hash": "190d0df263f754ff91f01c6d02bbffa391bc302a"
+          }
+        },
+        {
+          "client_id": "284083949179-immler3vov59nor8g23n0cjb80vncppv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoveJFH-RRCyCLL1LXUjo2z7XsuyYNQFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284083949179-immler3vov59nor8g23n0cjb80vncppv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
